@@ -1,0 +1,6 @@
+Note on LC filter choices:
+
+Original in datasheet is 1.5pF and 2.4nH This results in a 2.65GHz cutoff frequency.
+However, I was not able to source (for reasonable prices) components with those specific values.
+I chose 1.0pF and 2.7nH instead. Tollerances are 0.25 pF and 0.3 nH. extreme case scenarios are 0.75 pF and 2.4 nH resulting in a cutoff of 3.75 GHz, and 1.25 pF and 3 nH resulting in a cutoff of 2.6GHz. 
+Not ideal, but I would rather overshoot the cutoff frequency than accidentally cut off the used frequency.
