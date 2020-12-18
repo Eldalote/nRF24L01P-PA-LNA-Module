@@ -1,4 +1,4 @@
-# nRF24L01P-PA-LNA-Module
+# nRF24L01P-PA-LNA-Module DO NOT USE
 
 DO NOT USE THIS DESIGN!
 When doing further projects with the nRF24L01p and PA LNA module, I came to the conclusion that I made some significant design errors in this design.
